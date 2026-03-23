@@ -21,8 +21,8 @@ public class DownloadService {
 
 		Map<String, String> resultado = new HashMap<>();
 
-		String user = "areports";
-		String host = "137.184.81.141";
+		String user = "";
+		String host = "";
 		String[] privateKeys = { 
 				"C:\\Users\\Mitzi Alicia Moreno\\.ssh\\areports_ed25519",
 				"C:\\Users\\Isabel Loyo Luna\\.ssh\\areports_ed25519",
